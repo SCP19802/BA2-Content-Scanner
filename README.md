@@ -20,10 +20,9 @@ The scanner is **read-only**. It will not extract, change, repair or repack your
 
 ## Installation and starting
 
-1. Download the tool from its [Nexus Mods page](https://www.nexusmods.com/fallout4/mods/111343) when published, then extract the ZIP into any folder you choose.
-2. Keep all three **release-package** files together in that folder.
-3. Double-click **`BA2_Content_Scanner.bat`** to start the scanner.
-4. In the PowerShell window, type the number of your preferred scan option, then press **Enter**.
+1. Download the tool from its [Nexus Mods page](https://www.nexusmods.com/fallout4/mods/111343) (currently unpublished), then extract the ZIP into any folder you choose.
+2. Double-click **`BA2_Content_Scanner.bat`** to start the scanner.
+3. In the PowerShell window, type the number of your preferred scan option, then press **Enter**.
 
 ## Main menu options
 
