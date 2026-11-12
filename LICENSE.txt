@@ -1,0 +1,56 @@
+BA2 CONTENT SCANNER - PERSONAL USE LICENCE
+
+Copyright (c) 2026 broken9bot. All rights reserved.
+
+This licence applies to BA2 Content Scanner, including its batch launcher,
+PowerShell source code, and accompanying documentation, except for third-party
+material identified separately.
+
+1. PERMITTED USE
+
+You may download, inspect, install, and run an unmodified copy of BA2 Content
+Scanner for your own personal use. You may keep the local copies necessary to
+do so. The source code is published so that users and security reviewers can
+inspect how the tool operates.
+
+2. PERMISSION REQUIRED
+
+Without the author's prior written permission, you may not:
+
+- Modify, adapt, or create a derivative version of the tool or its source code.
+- Copy or incorporate the tool, its source code, or any substantial portion
+  of either into another tool, mod, software project, package, or other work.
+- Redistribute, repackage, mirror, share, sell, sublicense, or otherwise make
+  the tool or its source code available to others.
+- Upload the tool, its source code, or modified versions to Nexus Mods,
+  GitHub, other websites, file hosts, repositories, or distribution services.
+- Remove or alter the copyright notice, or falsely claim to be the author or
+  owner of the tool or its source code.
+
+3. SCAN REPORTS
+
+This licence restricts the tool and its source code, not the TXT scan reports
+that you generate by running the tool. Rights in third-party archive names,
+file paths, assets, and other scanned material remain with their respective
+owners.
+
+4. PLATFORM TERMS AND LEGAL EXCEPTIONS
+
+This licence does not restrict actions expressly allowed by applicable law or
+by the mandatory terms of a platform on which the author has published the
+repository. In particular, a public GitHub repository may be viewed and forked
+using GitHub's built-in features under GitHub's Terms of Service. Those limited
+platform permissions do not grant permission to redistribute the tool outside
+those features or incorporate its code into another project.
+
+5. NO WARRANTY
+
+The tool is supplied "as is", without warranties of any kind, to the extent
+permitted by applicable law. Use it at your own risk.
+
+For permission to modify, redistribute, republish, or incorporate the tool or
+its source code, contact the author (broken9bot) through the official Nexus
+Mods page: https://www.nexusmods.com/fallout4/mods/111343
+
+This is a source-available, restrictive licence; it is not an open-source
+software licence.
